@@ -1,10 +1,17 @@
 {
   "appium": {
     "name": "Appium",
-    "description": "an open source test automation framework for use with native, hybrid and mobile web apps.",
+    "description": "automation for apps.",
     "github": "https://github.com/appium",
     "website": "https://appium.io/",
     "good-first-issue": "https://git.io/fjQSF"
+  },
+  "architect": {
+    "name": "architect",
+    "description": "the simplest, most powerful way to build serverless applications.",
+    "github": "https://github.com/architect",
+    "website": "https://arc.codes/",
+    "good-first-issue": "https://git.io/fjQ9Z"
   },
   "dojo": {
     "name": "Dojo",
@@ -13,11 +20,23 @@
     "website": "https://dojo.io/",
     "good-first-issue": "https://git.io/fjQSj"
   },
+  "intern": {
+    "name": "Intern",
+    "description": "software testing for humans.",
+    "github": "https://github.com/theintern",
+    "website": "https://theintern.io/"
+  },
   "jquery": {
     "name": "jQuery",
     "description": "a fast, small, and feature-rich JavaScript library.",
     "github": "https://github.com/jquery",
     "website": "https://jquery.com/"
+  },
+  "mocha": {
+    "name": "Mocha",
+    "description": "a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.",
+    "github": "https://github.com/mochajs",
+    "website": "https://mochajs.org/"
   },
   "node": {
     "name": "Node.js",
@@ -25,6 +44,27 @@
     "github": "https://github.com/nodejs",
     "website": "https://nodejs.org",
     "good-first-issue": "https://git.io/fjQRv"
+  },
+  "node-red": {
+    "name": "node-red",
+    "description": "flow-based programming for the Internet of Things.",
+    "github": "https://github.com/node-red",
+    "website": "https://nodered.org/",
+    "good-first-issue": "https://git.io/fjQ9P"
+  },
+  "webdriverio": {
+    "name": "WebdriverIO",
+    "description": "Next-gen WebDriver test framework for Node.js.",
+    "github": "https://github.com/webdriverio",
+    "website": "https://webdriver.io/",
+    "good-first-issue": "https://git.io/fjQ9y"
+  },
+  "webhint": {
+    "name": "webhint",
+    "description": "Next-gen WebDriver test framework for Node.js.",
+    "github": "https://github.com/webhintio",
+    "website": "https://webhint.io/",
+    "good-first-issue": "https://git.io/fjQ9H"
   },
   "webpack": {
     "name": "webpack",
