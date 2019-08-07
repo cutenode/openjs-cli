@@ -38,7 +38,7 @@ exports.handler = function (argv) {
         .then(answer => {
           const urlKey = invert(projectDataFromAnswer.human, answer.projectDetails)
           open(projectDataFromAnswer.url[urlKey])
-          console.log(`Opened ${projectDataFromAnswer.url[urlKey]}!`)
+          console.log(`Opened ${projectDataFromAnswer.url[urlKey]}`)
         })
     })
 }
