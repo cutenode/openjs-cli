@@ -1,7 +1,6 @@
 {
   "name": "openjs-cli",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "bin": {
     "openjs": "bin/cli.js"
@@ -12,13 +11,33 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "openjs",
+    "foundation",
+    "node.js",
+    "cli",
+    "access",
+    "github",
+    "website",
+    "good first issue"
+  ],
   "author": "Tierney Cyren <hello@bnb.im>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.2",
     "inquirer": "^6.5.0",
     "open": "^6.4.0",
     "yargs": "^13.3.0"
-  }
+  },
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutenode/openjs-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cutenode/openjs-cli/issues"
+  },
+  "homepage": "https://github.com/cutenode/openjs-cli#readme",
+  "description": "A CLI to easily access the websites, GitHub organizations, and good first issues of OpenJS Foundation projects."
 }
