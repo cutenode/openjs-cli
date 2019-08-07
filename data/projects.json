@@ -1,9 +1,35 @@
 {
+  "appium": {
+    "name": "Appium",
+    "description": "an open source test automation framework for use with native, hybrid and mobile web apps.",
+    "github": "https://github.com/appium",
+    "website": "https://appium.io/",
+    "good-first-issue": "https://git.io/fjQSF"
+  },
+  "dojo": {
+    "name": "Dojo",
+    "description": "a progressive framework for modern web apps.",
+    "github": "https://github.com/dojo",
+    "website": "https://dojo.io/",
+    "good-first-issue": "https://git.io/fjQSj"
+  },
+  "jquery": {
+    "name": "jQuery",
+    "description": "a fast, small, and feature-rich JavaScript library.",
+    "github": "https://github.com/jquery",
+    "website": "https://jquery.com/"
+  },
   "node": {
     "name": "Node.js",
-    "description": "Node.js is a JavaScript runtime that can be used for almost anything, almost anywhere.",
+    "description": "a JavaScript runtime that can be used for almost anything, almost anywhere.",
     "github": "https://github.com/nodejs",
     "website": "https://nodejs.org",
     "good-first-issue": "https://git.io/fjQRv"
+  },
+  "webpack": {
+    "name": "webpack",
+    "description": "a bundler for JavaScript and friends.",
+    "github": "https://github.com/webpack",
+    "website": "https://webpack.js.org/"
   }
 }
