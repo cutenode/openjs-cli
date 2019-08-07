@@ -1,0 +1,9 @@
+{
+  "node": {
+    "name": "Node.js",
+    "description": "Node.js is a JavaScript runtime that can be used for almost anything, almost anywhere.",
+    "github": "https://github.com/nodejs",
+    "website": "https://nodejs.org",
+    "good-first-issue": "https://git.io/fjQRv"
+  }
+}
