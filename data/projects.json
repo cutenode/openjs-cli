@@ -61,10 +61,10 @@
   },
   "webhint": {
     "name": "webhint",
-    "description": "Next-gen WebDriver test framework for Node.js.",
+    "description": "A hinting engine for the web.",
     "github": "https://github.com/webhintio",
     "website": "https://webhint.io/",
-    "good-first-issue": "https://git.io/fjQ9H"
+    "good-first-issue": "https://git.io/fj7TU"
   },
   "webpack": {
     "name": "webpack",
