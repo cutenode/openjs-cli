@@ -27,8 +27,7 @@ Provide easy access to useful resources for each of the OpenJS Foundation projec
 
 - [x] Impact Project
 - [x] Growth Projects
-- [ ] At-Large Projects
-- [ ] Emeritus Projects
+- [x] At-Large Projects
 
 ### Features implemented
 
