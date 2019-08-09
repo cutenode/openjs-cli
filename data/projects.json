@@ -20,6 +20,45 @@
     "website": "https://dojo.io/",
     "good-first-issue": "https://git.io/fjQSj"
   },
+  "eslint": {
+    "name": "ESLint",
+    "description": "the pluggable linting utility for JavaScript and JSX.",
+    "github": "https://github.com/eslint",
+    "website": "https://eslint.org/",
+    "good-first-issue": "https://git.io/fj74a"
+  },
+  "esprima": {
+    "name": "Esprima",
+    "description": "ECMAScript parsing infrastructure for multipurpose analysis.",
+    "github": "https://github.com/jquery/esprima",
+    "website": "https://esprima.org/"
+  },
+  "express": {
+    "name": "Express",
+    "description": "",
+    "github": "https://github.com/expressjs/",
+    "website": "http://expressjs.com/"
+  },
+  "grunt": {
+    "name": "Grunt",
+    "description": "a JavaScript Task Runner",
+    "github": "https://github.com/gruntjs",
+    "website": "https://gruntjs.com/"
+  },
+  "hospitalrun": {
+    "name": "HospitalRun",
+    "description": "free, easy-to-use software for developing world healthcare.",
+    "github": "https://github.com/HospitalRun",
+    "website": "https://hospitalrun.io/",
+    "good-first-issue": "https://git.io/fj74p"
+  },
+  "interledgerjs": {
+    "name": "Interledger.js",
+    "description": "a JavaScript reference implementation of the Interledger protocol stack.",
+    "github": "https://github.com/interledgerjs",
+    "website": "https://interledger.org/",
+    "good-first-issue": "https://git.io/fj7B4"
+  },  
   "intern": {
     "name": "Intern",
     "description": "software testing for humans.",
@@ -32,11 +71,49 @@
     "github": "https://github.com/jquery",
     "website": "https://jquery.com/"
   },
+  "jerryscript": {
+    "name": "JerryScript",
+    "description": "aJavaScript engine for Internet of Things.",
+    "github": "https://github.com/jerryscript-project",
+    "website": "https://jerryscript.net/"
+  },
+  "libuv": {
+    "name": "libuv",
+    "description": "a multi-platform support library with a focus on asynchronous I/O.",
+    "github": "https://github.com/libuv",
+    "website": "https://libuv.org/",
+    "good-first-issue": "https://git.io/fj7Bz"
+  },
+  "lodash": {
+    "name": "Lodash",
+    "description": "JavaScript utilities delivering consistency, modularity, performance, & extras.",
+    "github": "https://github.com/lodash",
+    "website": "https://lodash.com/"
+  },
+  "marko": {
+    "name": "Marko",
+    "description": "a friendly and super fast UI library that makes building web apps fun.",
+    "github": "https://github.com/marko-js",
+    "website": "https://markojs.com/",
+    "good-first-issue": "https://git.io/fj7B7"
+  },
+  "messageformat": {
+    "name": "messageformat",
+    "description": "ICU MessageFormat for JavaScript - i18n Plural and Gender Capable Messages.",
+    "github": "https://github.com/messageformat",
+    "website": "https://messageformat.github.io/"
+  },
   "mocha": {
     "name": "Mocha",
-    "description": "a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.",
+    "description": "a feature-rich JavaScript test framework running on Node.js and in the browser.",
     "github": "https://github.com/mochajs",
     "website": "https://mochajs.org/"
+  },
+  "moment": {
+    "name": "Moment",
+    "description": "parse, validate, manipulate, and display dates in JavaScript.",
+    "github": "https://github.com/moment/moment/",
+    "website": "https://momentjs.com/"
   },
   "node": {
     "name": "Node.js",
@@ -51,6 +128,17 @@
     "github": "https://github.com/node-red",
     "website": "https://nodered.org/",
     "good-first-issue": "https://git.io/fjQ9P"
+  },
+  "pep": {
+    "name": "PEP",
+    "description": "a polyfill for the unified event system for the web platform.",
+    "github": "https://github.com/jquery/pep"
+  },
+  "qunit": {
+    "name": "QUnit",
+    "description": "a JavaScript Unit Testing framework.",
+    "github": "https://github.com/qunitjs",
+    "website": "https://qunitjs.com/"
   },
   "webdriverio": {
     "name": "WebdriverIO",
