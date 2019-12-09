@@ -1,5 +1,7 @@
 # openjs-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/openjs-cli.svg)](https://greenkeeper.io/)
+
 A CLI to easily access the websites, GitHub organizations, and good first issues of OpenJS Foundation projects.
 
 ## Usage
